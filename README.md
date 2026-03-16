@@ -74,7 +74,7 @@ credit-scoring-model
 │
 ├── src
 │ ├── preprocess.py
-│ ├── train_model.py
+│ ├── train.py
 │ └── evaluate_model.py
 │
 ├── main.py
